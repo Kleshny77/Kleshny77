@@ -2,120 +2,73 @@
 
 iOS Engineer · Apps, SDKs and build tooling
 
-#### iOS development
-
 <p>
-  <img src="./assets/stack/swift.png" width="76" alt="Swift">
-  <img src="./assets/stack/swiftui.png" width="76" alt="SwiftUI">
-  <img src="./assets/stack/uikit.png" width="76" alt="UIKit">
-  <img src="./assets/stack/combine.png" width="76" alt="Combine">
-  <img src="./assets/stack/accessibility.png" width="95" alt="Accessibility">
-  <img src="./assets/stack/mapkit.png" width="76" alt="MapKit">
-  <img src="./assets/stack/swift-charts.png" width="94" alt="Swift Charts">
-  <img src="./assets/stack/divkit.png" width="76" alt="DivKit">
-</p>
-
-Backend-driven UI with DivKit.
-
-#### Concurrency, networking & storage
-
-<p>
-  <img src="./assets/stack/swift-concurrency.png" width="130" alt="Swift Concurrency">
-  <img src="./assets/stack/gcd.png" width="76" alt="GCD">
-  <img src="./assets/stack/urlsession.png" width="91" alt="URLSession">
-  <img src="./assets/stack/rest.png" width="76" alt="REST">
-  <img src="./assets/stack/core-data.png" width="79" alt="Core Data">
-  <img src="./assets/stack/swiftdata.png" width="79" alt="SwiftData">
-  <img src="./assets/stack/userdefaults.png" width="98" alt="UserDefaults">
-  <img src="./assets/stack/keychain.png" width="76" alt="Keychain">
-  <img src="./assets/stack/postgresql.png" width="91" alt="PostgreSQL">
-</p>
-
-Swift 6 strict concurrency, async/await, actors and Sendable.
-
-#### SDKs & architecture
-
-<p>
-  <img src="./assets/stack/ios-sdks.png" width="76" alt="iOS SDKs">
-  <img src="./assets/stack/modularization.png" width="108" alt="Modularization">
-  <img src="./assets/stack/spm.png" width="76" alt="SPM">
-  <img src="./assets/stack/cocoapods.png" width="87" alt="CocoaPods">
-  <img src="./assets/stack/mvc.png" width="76" alt="MVC">
-  <img src="./assets/stack/mvvm.png" width="76" alt="MVVM">
-  <img src="./assets/stack/clean-swift-vip.png" width="121" alt="Clean Swift (VIP)">
-  <img src="./assets/stack/viper.png" width="76" alt="VIPER">
-</p>
-
-Design patterns, dependency injection, SOLID and object-oriented design.
-
-#### Build tooling & CI/CD
-
-<p>
-  <img src="./assets/stack/xcode.png" width="76" alt="Xcode">
-  <img src="./assets/stack/xcodebuild.png" width="85" alt="xcodebuild">
-  <img src="./assets/stack/bash.png" width="76" alt="Bash">
-  <img src="./assets/stack/fastlane.png" width="76" alt="fastlane">
-  <img src="./assets/stack/github-actions.png" width="110" alt="GitHub Actions">
-  <img src="./assets/stack/arcadia-ci.png" width="81" alt="Arcadia CI">
-  <img src="./assets/stack/docker.png" width="76" alt="Docker">
-  <img src="./assets/stack/build-caching.png" width="100" alt="Build caching">
-</p>
-
-Build automation, reusable tooling and release pipelines.
-
-#### Testing & performance
-
-<p>
-  <img src="./assets/stack/swift-testing.png" width="98" alt="Swift Testing">
-  <img src="./assets/stack/xctest.png" width="76" alt="XCTest">
-  <img src="./assets/stack/xctest-performance.png" width="142" alt="XCTest Performance">
-  <img src="./assets/stack/instruments.png" width="92" alt="Instruments">
-  <img src="./assets/stack/unit-tests.png" width="78" alt="Unit tests">
-  <img src="./assets/stack/integration-tests.png" width="118" alt="Integration tests">
-  <img src="./assets/stack/ui-tests.png" width="76" alt="UI tests">
-  <img src="./assets/stack/e2e-tests.png" width="76" alt="E2E tests">
-</p>
-
-#### AI-assisted development
-
-<p>
-  <img src="./assets/stack/codex.png" width="76" alt="Codex">
-  <img src="./assets/stack/claude-code.png" width="96" alt="Claude Code">
-  <img src="./assets/stack/cursor.png" width="76" alt="Cursor">
-  <img src="./assets/stack/mcp-servers.png" width="95" alt="MCP servers">
-  <img src="./assets/stack/agent-harness.png" width="106" alt="Agent harness">
-  <img src="./assets/stack/orchestration.png" width="102" alt="Orchestration">
-  <img src="./assets/stack/context-optimization.png" width="144" alt="Context optimization">
-  <img src="./assets/stack/evals.png" width="76" alt="Evals">
-  <img src="./assets/stack/agent-security.png" width="107" alt="Agent security">
-</p>
-
-Hooks, skills, prompt engineering, automated code review and agents in CI/CD.
-
-#### Languages & frameworks
-
-<p>
-  <img src="./assets/stack/objective-c.png" width="91" alt="Objective-C">
-  <img src="./assets/stack/go.png" width="76" alt="Go">
-  <img src="./assets/stack/python.png" width="76" alt="Python">
-  <img src="./assets/stack/csharp.png" width="76" alt="C#">
-  <img src="./assets/stack/dotnet.png" width="76" alt=".NET">
-  <img src="./assets/stack/c.png" width="76" alt="C">
-  <img src="./assets/stack/cpp.png" width="76" alt="C++">
-  <img src="./assets/stack/javascript.png" width="83" alt="JavaScript">
-  <img src="./assets/stack/react.png" width="76" alt="React">
-  <img src="./assets/stack/nodedotjs.png" width="76" alt="Node.js">
-  <img src="./assets/stack/sql.png" width="76" alt="SQL">
-</p>
-
-#### Developer tools
-
-<p>
-  <img src="./assets/stack/git.png" width="76" alt="Git">
-  <img src="./assets/stack/github.png" width="76" alt="GitHub">
-  <img src="./assets/stack/arcadia.png" width="76" alt="Arcadia">
-  <img src="./assets/stack/sourcecraft.png" width="92" alt="SourceCraft">
-  <img src="./assets/stack/firebase.png" width="76" alt="Firebase">
-  <img src="./assets/stack/figma.png" width="76" alt="Figma">
-  <img src="./assets/stack/jira.png" width="76" alt="Jira">
+  <img src="./assets/icons/swift.png" width="28" height="28" alt="Swift" title="Swift">
+  <img src="./assets/icons/swiftui.png" width="28" height="28" alt="SwiftUI" title="SwiftUI">
+  <img src="./assets/icons/uikit.png" width="28" height="28" alt="UIKit" title="UIKit">
+  <img src="./assets/icons/combine.png" width="28" height="28" alt="Combine" title="Combine">
+  <img src="./assets/icons/accessibility.png" width="28" height="28" alt="Accessibility" title="Accessibility">
+  <img src="./assets/icons/mapkit.png" width="28" height="28" alt="MapKit" title="MapKit">
+  <img src="./assets/icons/swift-charts.png" width="28" height="28" alt="Swift Charts" title="Swift Charts">
+  <img src="./assets/icons/divkit.png" width="28" height="28" alt="DivKit" title="DivKit">
+  <img src="./assets/icons/swift-concurrency.png" width="28" height="28" alt="Swift Concurrency" title="Swift Concurrency"><br>
+  <img src="./assets/icons/gcd.png" width="28" height="28" alt="GCD" title="GCD">
+  <img src="./assets/icons/urlsession.png" width="28" height="28" alt="URLSession" title="URLSession">
+  <img src="./assets/icons/rest.png" width="28" height="28" alt="REST" title="REST">
+  <img src="./assets/icons/core-data.png" width="28" height="28" alt="Core Data" title="Core Data">
+  <img src="./assets/icons/swiftdata.png" width="28" height="28" alt="SwiftData" title="SwiftData">
+  <img src="./assets/icons/userdefaults.png" width="28" height="28" alt="UserDefaults" title="UserDefaults">
+  <img src="./assets/icons/keychain.png" width="28" height="28" alt="Keychain" title="Keychain">
+  <img src="./assets/icons/postgresql.png" width="28" height="28" alt="PostgreSQL" title="PostgreSQL">
+  <img src="./assets/icons/ios-sdks.png" width="28" height="28" alt="iOS SDKs" title="iOS SDKs"><br>
+  <img src="./assets/icons/modularization.png" width="28" height="28" alt="Modularization" title="Modularization">
+  <img src="./assets/icons/spm.png" width="28" height="28" alt="SPM" title="SPM">
+  <img src="./assets/icons/cocoapods.png" width="28" height="28" alt="CocoaPods" title="CocoaPods">
+  <img src="./assets/icons/mvc.png" width="28" height="28" alt="MVC" title="MVC">
+  <img src="./assets/icons/mvvm.png" width="28" height="28" alt="MVVM" title="MVVM">
+  <img src="./assets/icons/clean-swift-vip.png" width="28" height="28" alt="Clean Swift (VIP)" title="Clean Swift (VIP)">
+  <img src="./assets/icons/viper.png" width="28" height="28" alt="VIPER" title="VIPER">
+  <img src="./assets/icons/xcode.png" width="28" height="28" alt="Xcode" title="Xcode">
+  <img src="./assets/icons/xcodebuild.png" width="28" height="28" alt="xcodebuild" title="xcodebuild"><br>
+  <img src="./assets/icons/bash.png" width="28" height="28" alt="Bash" title="Bash">
+  <img src="./assets/icons/fastlane.png" width="28" height="28" alt="fastlane" title="fastlane">
+  <img src="./assets/icons/github-actions.png" width="28" height="28" alt="GitHub Actions" title="GitHub Actions">
+  <img src="./assets/icons/arcadia-ci.png" width="28" height="28" alt="Arcadia CI" title="Arcadia CI">
+  <img src="./assets/icons/docker.png" width="28" height="28" alt="Docker" title="Docker">
+  <img src="./assets/icons/build-caching.png" width="28" height="28" alt="Build caching" title="Build caching">
+  <img src="./assets/icons/swift-testing.png" width="28" height="28" alt="Swift Testing" title="Swift Testing">
+  <img src="./assets/icons/xctest.png" width="28" height="28" alt="XCTest" title="XCTest">
+  <img src="./assets/icons/xctest-performance.png" width="28" height="28" alt="XCTest Performance" title="XCTest Performance"><br>
+  <img src="./assets/icons/instruments.png" width="28" height="28" alt="Instruments" title="Instruments">
+  <img src="./assets/icons/unit-tests.png" width="28" height="28" alt="Unit tests" title="Unit tests">
+  <img src="./assets/icons/integration-tests.png" width="28" height="28" alt="Integration tests" title="Integration tests">
+  <img src="./assets/icons/ui-tests.png" width="28" height="28" alt="UI tests" title="UI tests">
+  <img src="./assets/icons/e2e-tests.png" width="28" height="28" alt="E2E tests" title="E2E tests">
+  <img src="./assets/icons/codex.png" width="28" height="28" alt="Codex" title="Codex">
+  <img src="./assets/icons/claude-code.png" width="28" height="28" alt="Claude Code" title="Claude Code">
+  <img src="./assets/icons/cursor.png" width="28" height="28" alt="Cursor" title="Cursor">
+  <img src="./assets/icons/mcp-servers.png" width="28" height="28" alt="MCP servers" title="MCP servers"><br>
+  <img src="./assets/icons/agent-harness.png" width="28" height="28" alt="Agent harness" title="Agent harness">
+  <img src="./assets/icons/orchestration.png" width="28" height="28" alt="Orchestration" title="Orchestration">
+  <img src="./assets/icons/context-optimization.png" width="28" height="28" alt="Context optimization" title="Context optimization">
+  <img src="./assets/icons/evals.png" width="28" height="28" alt="Evals" title="Evals">
+  <img src="./assets/icons/agent-security.png" width="28" height="28" alt="Agent security" title="Agent security">
+  <img src="./assets/icons/objective-c.png" width="28" height="28" alt="Objective-C" title="Objective-C">
+  <img src="./assets/icons/go.png" width="28" height="28" alt="Go" title="Go">
+  <img src="./assets/icons/python.png" width="28" height="28" alt="Python" title="Python">
+  <img src="./assets/icons/csharp.png" width="28" height="28" alt="C#" title="C#"><br>
+  <img src="./assets/icons/dotnet.png" width="28" height="28" alt=".NET" title=".NET">
+  <img src="./assets/icons/c.png" width="28" height="28" alt="C" title="C">
+  <img src="./assets/icons/cpp.png" width="28" height="28" alt="C++" title="C++">
+  <img src="./assets/icons/javascript.png" width="28" height="28" alt="JavaScript" title="JavaScript">
+  <img src="./assets/icons/react.png" width="28" height="28" alt="React" title="React">
+  <img src="./assets/icons/nodedotjs.png" width="28" height="28" alt="Node.js" title="Node.js">
+  <img src="./assets/icons/sql.png" width="28" height="28" alt="SQL" title="SQL">
+  <img src="./assets/icons/git.png" width="28" height="28" alt="Git" title="Git">
+  <img src="./assets/icons/github.png" width="28" height="28" alt="GitHub" title="GitHub"><br>
+  <img src="./assets/icons/arcadia.png" width="28" height="28" alt="Arcadia" title="Arcadia">
+  <img src="./assets/icons/sourcecraft.png" width="28" height="28" alt="SourceCraft" title="SourceCraft">
+  <img src="./assets/icons/firebase.png" width="28" height="28" alt="Firebase" title="Firebase">
+  <img src="./assets/icons/figma.png" width="28" height="28" alt="Figma" title="Figma">
+  <img src="./assets/icons/jira.png" width="28" height="28" alt="Jira" title="Jira">
 </p>
