@@ -15,6 +15,21 @@
 <details>
 <summary><strong>More of my stack</strong></summary>
 
+**Languages**
+
+<p>
+  <img src="./assets/labels/swift.png" width="59" alt="Swift">
+  <img src="./assets/labels/objective-c.png" width="98" alt="Objective-C">
+  <img src="./assets/labels/go.png" width="47" alt="Go">
+  <img src="./assets/labels/python.png" width="70" alt="Python">
+  <img src="./assets/labels/csharp.png" width="47" alt="C#">
+  <img src="./assets/labels/c.png" width="39" alt="C">
+  <img src="./assets/labels/cpp.png" width="54" alt="C++">
+  <img src="./assets/labels/javascript.png" width="90" alt="JavaScript">
+  <img src="./assets/labels/sql.png" width="54" alt="SQL">
+  <img src="./assets/labels/bash.png" width="58" alt="Bash">
+</p>
+
 **iOS & data**
 
 <p>
