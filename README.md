@@ -11,3 +11,44 @@
   <img src="./assets/tiles/xcode.png" width="72" alt="Xcode">
   <img src="./assets/tiles/xctest.png" width="72" alt="XCTest">
 </p>
+
+<details>
+<summary><strong>More of my stack</strong></summary>
+
+**iOS & data**
+
+<p>
+  <img src="./assets/labels/combine.png" width="81" alt="Combine">
+  <img src="./assets/labels/urlsession.png" width="98" alt="URLSession">
+  <img src="./assets/labels/core-data.png" width="87" alt="Core Data">
+  <img src="./assets/labels/swiftdata.png" width="85" alt="SwiftData">
+</p>
+
+**SDKs & architecture**
+
+<p>
+  <img src="./assets/labels/ios-sdks.png" width="84" alt="iOS SDKs">
+  <img src="./assets/labels/spm.png" width="56" alt="SPM">
+  <img src="./assets/labels/mvvm.png" width="68" alt="MVVM">
+  <img src="./assets/labels/modularization.png" width="114" alt="Modularization">
+</p>
+
+**Build, testing & performance**
+
+<p>
+  <img src="./assets/labels/github-actions.png" width="116" alt="GitHub Actions">
+  <img src="./assets/labels/fastlane.png" width="75" alt="fastlane">
+  <img src="./assets/labels/build-caching.png" width="107" alt="Build caching">
+  <img src="./assets/labels/swift-testing.png" width="104" alt="Swift Testing">
+  <img src="./assets/labels/instruments.png" width="98" alt="Instruments">
+</p>
+
+**AI tools**
+
+<p>
+  <img src="./assets/labels/codex.png" width="66" alt="Codex">
+  <img src="./assets/labels/claude-code.png" width="103" alt="Claude Code">
+  <img src="./assets/labels/mcp-servers.png" width="102" alt="MCP servers">
+</p>
+
+</details>
