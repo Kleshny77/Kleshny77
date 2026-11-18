@@ -2,58 +2,127 @@
 
 iOS Engineer · Apps, SDKs and build tooling
 
-<p><strong>iOS development</strong><br>
-<img src="./assets/icons/swift.png" width="18" height="18" align="middle" alt="">&nbsp;Swift&ensp; <img src="./assets/icons/swiftui.png" width="18" height="18" align="middle" alt="">&nbsp;SwiftUI&ensp; <img src="./assets/icons/uikit.png" width="18" height="18" align="middle" alt="">&nbsp;UIKit<br>
-<img src="./assets/icons/combine.png" width="18" height="18" align="middle" alt="">&nbsp;Combine&ensp; <img src="./assets/icons/accessibility.png" width="18" height="18" align="middle" alt="">&nbsp;Accessibility<br>
-<img src="./assets/icons/mapkit.png" width="18" height="18" align="middle" alt="">&nbsp;MapKit&ensp; <img src="./assets/icons/swift-charts.png" width="18" height="18" align="middle" alt="">&nbsp;Swift&nbsp;Charts&ensp; <img src="./assets/icons/divkit.png" width="18" height="18" align="middle" alt="">&nbsp;DivKit
+<p>
+  <img src="./assets/tiles/swift.png" width="72" alt="Swift">
+  <img src="./assets/tiles/swiftui.png" width="72" alt="SwiftUI">
+  <img src="./assets/tiles/uikit.png" width="72" alt="UIKit">
+  <img src="./assets/tiles/swift-concurrency.png" width="127" alt="Swift Concurrency">
+  <img src="./assets/tiles/ios-sdks.png" width="73" alt="iOS SDKs">
+  <img src="./assets/tiles/xcode.png" width="72" alt="Xcode">
+  <img src="./assets/tiles/xctest.png" width="72" alt="XCTest">
+  <img src="./assets/tiles/codex.png" width="72" alt="Codex">
 </p>
 
-<p><strong>Concurrency, networking &amp; storage</strong><br>
-<img src="./assets/icons/swift-concurrency.png" width="18" height="18" align="middle" alt="">&nbsp;Swift&nbsp;Concurrency&ensp; <img src="./assets/icons/gcd.png" width="18" height="18" align="middle" alt="">&nbsp;GCD<br>
-<img src="./assets/icons/urlsession.png" width="18" height="18" align="middle" alt="">&nbsp;URLSession&ensp; <img src="./assets/icons/rest.png" width="18" height="18" align="middle" alt="">&nbsp;REST&ensp; <img src="./assets/icons/core-data.png" width="18" height="18" align="middle" alt="">&nbsp;Core&nbsp;Data<br>
-<img src="./assets/icons/swiftdata.png" width="18" height="18" align="middle" alt="">&nbsp;SwiftData&ensp; <img src="./assets/icons/userdefaults.png" width="18" height="18" align="middle" alt="">&nbsp;UserDefaults<br>
-<img src="./assets/icons/keychain.png" width="18" height="18" align="middle" alt="">&nbsp;Keychain&ensp; <img src="./assets/icons/postgresql.png" width="18" height="18" align="middle" alt="">&nbsp;PostgreSQL
+<details>
+<summary><strong>Full stack</strong> · 68 skills &amp; tools</summary>
+
+
+**iOS development**
+
+<p>
+  <img src="./assets/labels/swift.png" width="59" alt="Swift">
+  <img src="./assets/labels/swiftui.png" width="71" alt="SwiftUI">
+  <img src="./assets/labels/uikit.png" width="58" alt="UIKit">
+  <img src="./assets/labels/combine.png" width="81" alt="Combine">
+  <img src="./assets/labels/accessibility.png" width="101" alt="Accessibility">
+  <img src="./assets/labels/mapkit.png" width="70" alt="MapKit">
+  <img src="./assets/labels/swift-charts.png" width="100" alt="Swift Charts">
+  <img src="./assets/labels/divkit.png" width="64" alt="DivKit">
 </p>
 
-<p><strong>SDKs &amp; architecture</strong><br>
-<img src="./assets/icons/ios-sdks.png" width="18" height="18" align="middle" alt="">&nbsp;iOS&nbsp;SDKs&ensp; <img src="./assets/icons/modularization.png" width="18" height="18" align="middle" alt="">&nbsp;Modularization<br>
-<img src="./assets/icons/spm.png" width="18" height="18" align="middle" alt="">&nbsp;SPM&ensp; <img src="./assets/icons/cocoapods.png" width="18" height="18" align="middle" alt="">&nbsp;CocoaPods&ensp; <img src="./assets/icons/mvc.png" width="18" height="18" align="middle" alt="">&nbsp;MVC<br>
-<img src="./assets/icons/mvvm.png" width="18" height="18" align="middle" alt="">&nbsp;MVVM&ensp; <img src="./assets/icons/clean-swift-vip.png" width="18" height="18" align="middle" alt="">&nbsp;Clean&nbsp;Swift&nbsp;(VIP)<br>
-<img src="./assets/icons/viper.png" width="18" height="18" align="middle" alt="">&nbsp;VIPER
+**Concurrency, networking & storage**
+
+<p>
+  <img src="./assets/labels/swift-concurrency.png" width="135" alt="Swift Concurrency">
+  <img src="./assets/labels/gcd.png" width="57" alt="GCD">
+  <img src="./assets/labels/urlsession.png" width="98" alt="URLSession">
+  <img src="./assets/labels/rest.png" width="61" alt="REST">
+  <img src="./assets/labels/core-data.png" width="87" alt="Core Data">
+  <img src="./assets/labels/swiftdata.png" width="85" alt="SwiftData">
+  <img src="./assets/labels/userdefaults.png" width="104" alt="UserDefaults">
+  <img src="./assets/labels/keychain.png" width="81" alt="Keychain">
+  <img src="./assets/labels/postgresql.png" width="98" alt="PostgreSQL">
 </p>
 
-<p><strong>Build tooling &amp; CI/CD</strong><br>
-<img src="./assets/icons/xcode.png" width="18" height="18" align="middle" alt="">&nbsp;Xcode&ensp; <img src="./assets/icons/xcodebuild.png" width="18" height="18" align="middle" alt="">&nbsp;xcodebuild&ensp; <img src="./assets/icons/bash.png" width="18" height="18" align="middle" alt="">&nbsp;Bash<br>
-<img src="./assets/icons/fastlane.png" width="18" height="18" align="middle" alt="">&nbsp;fastlane&ensp; <img src="./assets/icons/github-actions.png" width="18" height="18" align="middle" alt="">&nbsp;GitHub&nbsp;Actions<br>
-<img src="./assets/icons/arcadia-ci.png" width="18" height="18" align="middle" alt="">&nbsp;Arcadia&nbsp;CI&ensp; <img src="./assets/icons/docker.png" width="18" height="18" align="middle" alt="">&nbsp;Docker<br>
-<img src="./assets/icons/build-caching.png" width="18" height="18" align="middle" alt="">&nbsp;Build&nbsp;caching
+**SDKs & architecture**
+
+<p>
+  <img src="./assets/labels/ios-sdks.png" width="84" alt="iOS SDKs">
+  <img src="./assets/labels/modularization.png" width="114" alt="Modularization">
+  <img src="./assets/labels/spm.png" width="56" alt="SPM">
+  <img src="./assets/labels/cocoapods.png" width="95" alt="CocoaPods">
+  <img src="./assets/labels/mvc.png" width="57" alt="MVC">
+  <img src="./assets/labels/mvvm.png" width="68" alt="MVVM">
+  <img src="./assets/labels/clean-swift-vip.png" width="126" alt="Clean Swift (VIP)">
+  <img src="./assets/labels/viper.png" width="64" alt="VIPER">
 </p>
 
-<p><strong>Testing &amp; performance</strong><br>
-<img src="./assets/icons/swift-testing.png" width="18" height="18" align="middle" alt="">&nbsp;Swift&nbsp;Testing&ensp; <img src="./assets/icons/xctest.png" width="18" height="18" align="middle" alt="">&nbsp;XCTest<br>
-<img src="./assets/icons/xctest-performance.png" width="18" height="18" align="middle" alt="">&nbsp;XCTest&nbsp;Performance<br>
-<img src="./assets/icons/instruments.png" width="18" height="18" align="middle" alt="">&nbsp;Instruments&ensp; <img src="./assets/icons/unit-tests.png" width="18" height="18" align="middle" alt="">&nbsp;Unit&nbsp;tests<br>
-<img src="./assets/icons/integration-tests.png" width="18" height="18" align="middle" alt="">&nbsp;Integration&nbsp;tests&ensp; <img src="./assets/icons/ui-tests.png" width="18" height="18" align="middle" alt="">&nbsp;UI&nbsp;tests<br>
-<img src="./assets/icons/e2e-tests.png" width="18" height="18" align="middle" alt="">&nbsp;E2E&nbsp;tests
+**Build tooling & CI/CD**
+
+<p>
+  <img src="./assets/labels/xcode.png" width="66" alt="Xcode">
+  <img src="./assets/labels/xcodebuild.png" width="92" alt="xcodebuild">
+  <img src="./assets/labels/bash.png" width="58" alt="Bash">
+  <img src="./assets/labels/fastlane.png" width="75" alt="fastlane">
+  <img src="./assets/labels/github-actions.png" width="116" alt="GitHub Actions">
+  <img src="./assets/labels/arcadia-ci.png" width="88" alt="Arcadia CI">
+  <img src="./assets/labels/docker.png" width="71" alt="Docker">
+  <img src="./assets/labels/build-caching.png" width="107" alt="Build caching">
 </p>
 
-<p><strong>AI-assisted development</strong><br>
-<img src="./assets/icons/codex.png" width="18" height="18" align="middle" alt="">&nbsp;Codex&ensp; <img src="./assets/icons/claude-code.png" width="18" height="18" align="middle" alt="">&nbsp;Claude&nbsp;Code&ensp; <img src="./assets/icons/cursor.png" width="18" height="18" align="middle" alt="">&nbsp;Cursor<br>
-<img src="./assets/icons/mcp-servers.png" width="18" height="18" align="middle" alt="">&nbsp;MCP&nbsp;servers&ensp; <img src="./assets/icons/agent-harness.png" width="18" height="18" align="middle" alt="">&nbsp;Agent&nbsp;harness<br>
-<img src="./assets/icons/orchestration.png" width="18" height="18" align="middle" alt="">&nbsp;Orchestration<br>
-<img src="./assets/icons/context-optimization.png" width="18" height="18" align="middle" alt="">&nbsp;Context&nbsp;optimization&ensp; <img src="./assets/icons/evals.png" width="18" height="18" align="middle" alt="">&nbsp;Evals<br>
-<img src="./assets/icons/agent-security.png" width="18" height="18" align="middle" alt="">&nbsp;Agent&nbsp;security
+**Testing & performance**
+
+<p>
+  <img src="./assets/labels/swift-testing.png" width="104" alt="Swift Testing">
+  <img src="./assets/labels/xctest.png" width="71" alt="XCTest">
+  <img src="./assets/labels/xctest-performance.png" width="147" alt="XCTest Performance">
+  <img src="./assets/labels/instruments.png" width="98" alt="Instruments">
+  <img src="./assets/labels/unit-tests.png" width="85" alt="Unit tests">
+  <img src="./assets/labels/integration-tests.png" width="123" alt="Integration tests">
+  <img src="./assets/labels/ui-tests.png" width="74" alt="UI tests">
+  <img src="./assets/labels/e2e-tests.png" width="83" alt="E2E tests">
 </p>
 
-<p><strong>Languages &amp; frameworks</strong><br>
-<img src="./assets/icons/objective-c.png" width="18" height="18" align="middle" alt="">&nbsp;Objective-C&ensp; <img src="./assets/icons/go.png" width="18" height="18" align="middle" alt="">&nbsp;Go&ensp; <img src="./assets/icons/python.png" width="18" height="18" align="middle" alt="">&nbsp;Python<br>
-<img src="./assets/icons/csharp.png" width="18" height="18" align="middle" alt="">&nbsp;C#&ensp; <img src="./assets/icons/dotnet.png" width="18" height="18" align="middle" alt="">&nbsp;.NET&ensp; <img src="./assets/icons/c.png" width="18" height="18" align="middle" alt="">&nbsp;C&ensp; <img src="./assets/icons/cpp.png" width="18" height="18" align="middle" alt="">&nbsp;C++<br>
-<img src="./assets/icons/javascript.png" width="18" height="18" align="middle" alt="">&nbsp;JavaScript&ensp; <img src="./assets/icons/react.png" width="18" height="18" align="middle" alt="">&nbsp;React&ensp; <img src="./assets/icons/nodedotjs.png" width="18" height="18" align="middle" alt="">&nbsp;Node.js<br>
-<img src="./assets/icons/sql.png" width="18" height="18" align="middle" alt="">&nbsp;SQL
+**AI-assisted development**
+
+<p>
+  <img src="./assets/labels/codex.png" width="66" alt="Codex">
+  <img src="./assets/labels/claude-code.png" width="103" alt="Claude Code">
+  <img src="./assets/labels/cursor.png" width="68" alt="Cursor">
+  <img src="./assets/labels/mcp-servers.png" width="102" alt="MCP servers">
+  <img src="./assets/labels/agent-harness.png" width="112" alt="Agent harness">
+  <img src="./assets/labels/orchestration.png" width="108" alt="Orchestration">
+  <img src="./assets/labels/context-optimization.png" width="148" alt="Context optimization">
+  <img src="./assets/labels/evals.png" width="60" alt="Evals">
+  <img src="./assets/labels/agent-security.png" width="112" alt="Agent security">
 </p>
 
-<p><strong>Developer tools</strong><br>
-<img src="./assets/icons/git.png" width="18" height="18" align="middle" alt="">&nbsp;Git&ensp; <img src="./assets/icons/github.png" width="18" height="18" align="middle" alt="">&nbsp;GitHub&ensp; <img src="./assets/icons/arcadia.png" width="18" height="18" align="middle" alt="">&nbsp;Arcadia<br>
-<img src="./assets/icons/sourcecraft.png" width="18" height="18" align="middle" alt="">&nbsp;SourceCraft&ensp; <img src="./assets/icons/firebase.png" width="18" height="18" align="middle" alt="">&nbsp;Firebase&ensp; <img src="./assets/icons/figma.png" width="18" height="18" align="middle" alt="">&nbsp;Figma<br>
-<img src="./assets/icons/jira.png" width="18" height="18" align="middle" alt="">&nbsp;Jira
+**Languages & frameworks**
+
+<p>
+  <img src="./assets/labels/objective-c.png" width="98" alt="Objective-C">
+  <img src="./assets/labels/go.png" width="47" alt="Go">
+  <img src="./assets/labels/python.png" width="70" alt="Python">
+  <img src="./assets/labels/csharp.png" width="47" alt="C#">
+  <img src="./assets/labels/dotnet.png" width="58" alt=".NET">
+  <img src="./assets/labels/c.png" width="39" alt="C">
+  <img src="./assets/labels/cpp.png" width="54" alt="C++">
+  <img src="./assets/labels/javascript.png" width="90" alt="JavaScript">
+  <img src="./assets/labels/react.png" width="63" alt="React">
+  <img src="./assets/labels/nodedotjs.png" width="74" alt="Node.js">
+  <img src="./assets/labels/sql.png" width="54" alt="SQL">
 </p>
+
+**Developer tools**
+
+<p>
+  <img src="./assets/labels/git.png" width="47" alt="Git">
+  <img src="./assets/labels/github.png" width="70" alt="GitHub">
+  <img src="./assets/labels/arcadia.png" width="73" alt="Arcadia">
+  <img src="./assets/labels/sourcecraft.png" width="99" alt="SourceCraft">
+  <img src="./assets/labels/firebase.png" width="79" alt="Firebase">
+  <img src="./assets/labels/figma.png" width="65" alt="Figma">
+  <img src="./assets/labels/jira.png" width="51" alt="Jira">
+</p>
+
+</details>
