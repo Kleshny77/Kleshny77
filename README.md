@@ -1,6 +1,7 @@
-### Artem Samsonov
-
-iOS Engineer · Apps, SDKs and build tooling
+<picture>
+  <source media="(max-width: 580px)" srcset="https://raw.githubusercontent.com/Kleshny77/Kleshny77/main/assets/cover/moscow-sunset-mobile.png">
+  <img src="./assets/cover/moscow-sunset.png" width="100%" alt="Artem Samsonov — iOS Engineer. Moscow skyline at sunset.">
+</picture>
 
 <p>
   <img src="./assets/tiles/swift.png" width="72" alt="Swift">
